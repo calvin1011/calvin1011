@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calvin1011
-- 👀 I’m interested in Software enggineering and developing
+- 👀 I’m interested in AI/ML reasearch, Software engineering and developing
 - 🌱 I’m currently learning how to handle complex data
 - 💞️ I’m looking to collaborate on side projects and big projects as well because I am a quick learner and open to expanding my knowledge
 - 📫 How to reach me - Linkedln Calvin Ssendawula Email: calvinssendawula@gmail.com
